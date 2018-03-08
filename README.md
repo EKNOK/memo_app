@@ -1,24 +1,15 @@
-# README
+# Memo App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+this is my memo .
 
-Things you may want to cover:
+# References
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Version
+## 言語
+- rails - 5.1.5  
+- ruby - 2.4.3  
+## Gem
+bootstrap-sass 3.3.7
+devise 4.4.1
+# memo
